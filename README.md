@@ -1,5 +1,6 @@
 # NES-Power-Board
 A PCB that will fit in place of the stock NES frontloader's RF module.
+This is a fork of of Mathew's original NES Power board, https://github.com/mspinksosu/NES-Power-Board
 ***
 This PCB will replace the stock RF modulator box. It will have different connector options for outputting audio and video, as well as a breakout for the channel select switch.
 
